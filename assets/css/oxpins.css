@@ -26,11 +26,11 @@
     --oxpins-gray-rgb: 111, 119, 117;
     --oxpins-white: #ffffff;
     --oxpins-white-rgb: 255, 255, 255;
-    --oxpins-base: #102c52;
+    --oxpins-base: #be1105;
     --oxpins-base-rgb: 0, 113, 93;
     --oxpins-black: #283734;
     --oxpins-black-rgb: 40, 55, 52;
-    --oxpins-primary: #008bdb;
+    --oxpins-primary: #ffd96fb9;
     --oxpins-primary-rgb: 251, 212, 90;
     --oxpins-extra: #f9f4e8;
     --oxpins-extra-rgb: 249, 244, 232;
@@ -2483,10 +2483,10 @@ body.locked .page-wrapper {
 
 .main-slider__title {
     position: relative;
-    font-size: 80px;
+    font-size: 25px;
     color: var(--oxpins-white);
     font-weight: 900;
-    line-height: 83px;
+    line-height: 23px;
     letter-spacing: -0.04em;
     margin-top: 24px;
     margin-bottom: 26px;
